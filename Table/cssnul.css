@@ -1,0 +1,19 @@
+
+table{
+    border-collapse: collapse;
+    
+}
+td{
+    border: solid black;
+    text-align: center;
+}
+
+
+.xyz{
+    border: none;
+ 
+}
+.aligntitre{
+   
+    text-align:center
+}
